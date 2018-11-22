@@ -3,6 +3,7 @@
 
 template을 활용하여 필요한 html,css 코드를 수정하면서 어떤코드가 어떤부분을 의미하는지 이해 할 수 있었습니다.
 처음부터 코드를 만들어 가는것이 아니라 다른 코드들을 활용하여 수정하는 방법을 배울 수 있었습니다.
+![page](https://user-images.githubusercontent.com/31886913/48897839-85103a00-ee8e-11e8-9623-0d2c43328f41.PNG)
 
 ---
 ## [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
