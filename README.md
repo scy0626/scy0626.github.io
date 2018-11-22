@@ -1,4 +1,11 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+# Bootstrap template을 활용한 간단한 자기소개 페이지
+[자기소개 페이지](https://scy0626.github.io/)
+
+template을 활용하여 필요한 html,css 코드를 수정하면서 어떤코드가 어떤부분을 의미하는지 이해 할 수 있었습니다.
+처음부터 코드를 만들어 가는것이 아니라 다른 코들을 활용하여 수정하는 방법을 배울 수 있었습니다.
+
+---
+## [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
